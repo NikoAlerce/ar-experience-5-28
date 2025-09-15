@@ -20,8 +20,8 @@
 - target: target_1757902288753.png 
 
 **Archivo MindAR:** ✅ Generado correctamente
-**Score del Marker:** 80/100 (excellent)
-**Features detectadas:** 134
+**Score del Marker:** 70/100 (good)
+**Features detectadas:** 65
 **Resolución:** 2480x3508
 
 ## 📁 Estructura de Archivos
@@ -42,4 +42,4 @@
 - ❌ No requiere instalación de apps
 
 ---
-Generado por WebAR Platform - 14/9/2025, 11:12:22 p. m.
+Generado por WebAR Platform - 15/9/2025, 12:06:29 a. m.
